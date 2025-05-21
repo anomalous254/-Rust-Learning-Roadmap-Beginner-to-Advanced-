@@ -115,5 +115,3 @@
 ---
 
 ✅ Tip: Use this roadmap to review progress every week and revisit tricky topics.
-
-🧠 Want this in Notion, HTML, or a web dashboard? Let me know!
